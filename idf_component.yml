@@ -1,0 +1,7 @@
+version: "1.0.0"
+description: "ESP32 driver for WS2812 LED"
+url: "https://github.com/apps-in/esp32-ws2812"
+dependencies:
+  idf: "^5.0"
+files:
+  use_gitignore: true
